@@ -133,7 +133,7 @@ Visit `http://localhost:8080/listings` in your browser.
 ## Author
 
 **Saumya Yadav**
-B.Tech CSE (AI & Textile Technology), NITRA Technical Campus
+B.Tech CSE & AI, NITRA Technical Campus
 Passionate about backend development, scalable systems, and open-source contributions.
 
 ---
