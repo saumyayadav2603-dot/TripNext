@@ -1,6 +1,6 @@
-# TripNext 🌍 — Property Rental Platform
+# TripNext 🌍 — Property Listing and Booking Platform
 
-TripNext is a full-stack property rental platform inspired by Airbnb, built from the ground up to handle real-world challenges in authentication, authorization, geolocation, and cloud-based media storage. It enables users to list, discover, and review properties through a polished, responsive interface — deployed and live on the web with a production-grade MongoDB Atlas backend.
+TripNext is a full-stack property Listing and Booking platform inspired by Airbnb, built from the ground up to handle real-world challenges in authentication, authorization, geolocation, and cloud-based media storage. It enables users to list, discover, and review properties through a polished, responsive interface — deployed and live on the web with a production-grade MongoDB Atlas backend.
 
 🔗 **Live Demo:** [tripnext-sqm6.onrender.com](https://tripnext-sqm6.onrender.com)
 📂 **Source Code:** [github.com/your-github-username/tripnext](https://github.com/saumyayadav2603-dot/TripNext)
